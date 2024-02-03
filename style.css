@@ -1,0 +1,542 @@
+*{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.navbar{
+    height: 150px;
+    /* border: 2px solid black; */
+    border: none;
+     display: flex; 
+    /* flex-wrap: wrap; */
+    /* display: flex; */
+    background-color: rgb(32, 36, 40);
+    align-items: center;
+    
+}
+.juspay-logo{
+    height: 80px;
+    width: 180px;
+    margin-top: 10px;
+    /* border: 2px solid goldenrod; */
+    background-color: rgb(32, 36, 40);
+}
+.logo-img{
+    height: 50px;
+    width: 50px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.items{
+    
+    /* border: 2px solid rgb(63, 33, 33); */
+    margin: 10px;
+    height: 47.2px;
+    width: 1040px;
+    padding-top: 0px;
+    margin-left: 120px;
+    display: flex;
+    /* align-items: center; */
+    background-color: rgb(32, 36, 40);
+    
+}
+a{
+    margin-left: 80px;
+    margin-top: 20px;
+    text-decoration: none;
+    align-self: center;
+    color: white;
+    align-self: center;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-left: 5rem;
+    text-decoration: none;
+}
+.first{
+    margin-left: 10px;
+}
+button{
+    margin-left: 5rem;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    margin-left: 3rem;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+.outer{
+    height: 722px;
+    width: 100%;
+   
+    margin-right: 80px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(32, 36, 40);
+}
+
+.inner1{
+    height: 722px;
+    width: 600px;
+    margin-left: 50px;
+    background-color: rgb(32, 36, 40);
+}
+.inner2{
+    height: 722px;
+    width: 500px;
+    
+    margin-right: 50px;
+}
+.india{
+    font-size: 2.625rem;
+    color: #80A3EA;
+    height: 80px;
+    width: 500px;
+}
+.h1-heading{
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 110.5%;
+    width: 500px;
+    height: 297px;
+    color: white;
+}
+.para{
+    color: white;
+    font-size: 1.125rem;
+    height: 136px;
+    width: 500px;
+    line-height: 1.9;
+    margin-top: 1rem;
+    margin-bottom: 23px;
+    
+}
+.inner2{
+    background-color: rgb(32, 36, 40);
+}
+.img{
+width: 500px;
+height: 603px;
+}
+.learn{
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0px;
+    padding: 14px 20px;
+    margin-left: 0cap;
+    margin-top: 60px;
+}
+
+.second-part{
+    border: 2px solid black;
+    height: 460px;
+    width: 100%;
+     
+    
+    background-color: #e4f4ff;
+
+}
+.trusted-heading{
+    height: 80px;
+    width: 100%;
+    justify-content: center;
+    color: black;
+    /* border: 2px solid red; */
+    background-color: #e4f4ff;
+}
+.trusted-headingg{
+    
+    color: rgb(8, 36, 73);
+    font-size: 2.125rem;
+    grid-column: 1 / span 12;
+    letter-spacing: -0.03em;
+    padding-bottom: 3rem;
+    margin-top: 23px;
+    text-align: center;
+    
+}
+.compamies{
+    height: 100px;
+    width: 100%;
+    padding-top: 23px;
+    background-color: #e4f4ff;
+
+}
+.logos{
+    margin-top: 23px;
+    height: 64px;
+    width: 184pxx;
+    margin-left: 120px;
+    background-color: #e4f4ff;
+}
+
+.companies2{
+    height: 100px;
+    /* border: 2px solid yellow; */
+    width: 100%;
+    padding-top: 23px;
+    background-color: #e4f4ff;
+
+}
+.logos2{
+    margin-top: 23px;
+    height: 64px;
+    width: 184pxx;
+    margin-left: 80px;
+    
+}
+.airtel{
+    margin-left: 200px;
+}
+.bookshow{
+    margin-right: 200px;
+}
+/* third-part */
+.third-part{
+    height: 930px;
+    width: 100%;
+    border: 2px solid red;
+    background-image: url("https://juspay.in/static/bg_circular_dotted_white.png");
+    background-position: 50% centre;
+    
+    background-size: 57%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: lighten;
+    
+    /* opacity: 0.3; */
+    
+}
+.heading3{
+    height: 213PX;
+    padding-top: 168px;
+    padding-left: 100px;
+    color: #082449;
+    font-family: var(--font-header);
+    font-size: 3rem;
+    letter-spacing: -0.03em; 
+    line-height: 1.1;
+    /* margin: -.2em 0 0; */
+
+}
+.boxes{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.logo3{
+    height: 50px;
+}
+.box{
+    padding-top: 0px;
+    height: 200px;
+    width: 263px;
+     /* border: 2px solid blue; */
+}
+.icon-img{
+    height: 80px;
+    width: 80px;
+    margin-left: 90px;
+    margin-top: 0px;
+}
+.middle-headings{
+    font-family: var(--font-body);
+    font-size: 3.625rem;
+    font-weight: 700;
+    line-height: .8;
+    margin-left: 20px;
+    color: #234ea4;
+    margin-bottom: 17px;
+    text-align: center;
+    margin-top: 30px;
+}
+.s3{
+    font-size: 18px;
+    color: #234ea4;
+    
+    color: #234ea4;
+    margin-left: 75px;
+    
+    font-size: 1.125rem;
+    font-weight: 600;
+}
+.p3{
+    font-size: 16px;
+   
+    text-align: center;
+}
+/* part 4  */
+.part4{
+    height: 3000px;
+    width: 100%;
+    /* border: 2px solid brown; */
+    padding: 128px 0px;
+    /* display: flex; */
+    background-color: rgb(32, 36, 40);
+}
+.product-section{
+    height: 1800px;
+    width: 880px;
+    margin-left: 110px;
+    border: 0px ;
+    border-bottom: 2px  grey;
+    border-style: dashed;
+}
+.heading4{
+    color: rgb(255, 255, 255); 
+    font-size: 3rem;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    margin-bottom: 2rem;
+
+}
+.img2{
+    height: 220px;
+    width: 550px;
+    margin-bottom: 23px;
+}
+.part4-headings{
+    color: rgb(255, 255, 255);
+    font-size: 0.8125rem;
+    font-weight: 500;
+    letter-spacing: 4px;
+    margin-bottom: 1rem;
+    opacity: 0.6;
+    text-transform: uppercase;
+}
+.part4-headings2{
+    color: rgb(128, 163, 234);
+    font-size: 3rem;
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    margin-bottom: 1rem;
+}
+.p4{
+    color: rgb(255, 255, 255);
+    font-family: var(--font-body);
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.9;
+}
+.img3{
+    height: 194px;
+    width: 550px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.img4{
+    width: 550px;
+    height: 216px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.explore{
+    height: 420px;
+    width: 745px;
+    margin-left: 110px;
+    /* border: 2px solid red; */
+}
+.explore-heading{
+    margin-top: 80px;
+    color: rgb(139, 158, 196);
+    font-size: 4rem;
+    letter-spacing: -0.03em;
+}
+.explore-para{
+    margin-top: 23px;
+    color: rgb(255, 255, 255);
+    font-family: var(--font-body);
+    font-size: 1.125rem;
+    line-height: 1.9;
+    padding-right: 3rem;
+}
+.explore-button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin-left: 0px;
+    margin-top: 2rem;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0px;
+    padding: 14px 20px;
+}
+.boxes-part4{
+    height: 800px;
+    width: 850px;
+    margin-left: 110px;
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 2px solid goldenrod; */
+}
+.down-boxes{
+    
+    height: 350px;
+    width: 350px;
+    border: 2px solid red ;
+    border-radius: 10px;
+    margin-bottom: 23px;
+    background-color: transparent;
+    
+    
+}
+.side{
+    margin-left: 120px;
+}
+
+
+ .box-banner{
+    width: 350px;
+    height: 147px;
+    margin: 0px;
+} 
+.boxes-heading{
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: -.03em;
+    
+    margin-left: 23px;
+    margin-top: 23px;
+}
+/* .express{
+    margin-left: 60px;
+} */
+.box-anchor{
+    margin: 0px;
+    margin: 0px;
+    padding: 0%;
+}
+.box-para{
+    color: #fff;
+    font-family: var(--font-body);
+    font-size: 1.125rem;
+    line-height: 1.9;
+    opacity: .7;
+    margin: 0 0 1.45rem;
+    padding: 0;
+    margin-left: 23px;
+    margin-right: 23px;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    background-color: #e4f4ff;
+    width: 100%;
+}
+.footer .comp ul h1{
+    margin-top: 20px;
+    margin-left: 120px;
+    list-style: none;
+    margin-bottom: 50px;
+}
+ 
+.footer .comp ul li{
+    margin: 10px;
+    margin-left: 120px;
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.footer .comp ul li:hover{
+    color: rgb(57, 56, 55);
+}
+
+.footer .product ul h1{
+    margin-top: 20px;
+    margin-left: 120px;
+    list-style: none;
+    margin-bottom: 50px;
+}
+ 
+.footer .product ul li{
+    margin: 10px;
+    margin-left: 120px;
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.footer .product ul li:hover{
+    color: rgb(57, 56, 55);
+}
+
+.footer .resources ul h1{
+    margin-top: 20px;
+    margin-left: 120px;
+    list-style: none;
+    margin-bottom: 50px;
+
+}
+ 
+.footer .resources ul li{
+    margin: 10px;
+    margin-left: 120px;
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.footer .resources ul li:hover{
+    color: rgb(57, 56, 55);
+}
+
+.footer .compliance ul h1{
+    margin-top: 20px;
+    margin-left: 120px;
+    list-style: none;
+    margin-bottom: 50px;
+}
+ 
+.footer .compliance ul li{
+    margin: 10px;
+    margin-left: 120px;
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.footer .compliance ul li:hover{
+    color: rgb(57, 56, 55);
+}
+
+.footer .icons{
+    margin-top: 20px;
+    margin-left : 120px;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+
+.footer .icons .bi-envelope-fill{
+    color: rgb(222, 59, 59);
+}
+
+.footer .icons .bi-linkedin{
+    margin-left: 20px;
+    color: rgb(30, 30, 127);
+}
+
+.footer .icons .bi-twitter{
+    margin-left: 20px;
+    color: rgb(35, 95, 131);
+}
